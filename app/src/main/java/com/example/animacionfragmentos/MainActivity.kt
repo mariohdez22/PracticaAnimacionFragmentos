@@ -7,6 +7,8 @@ import androidx.fragment.app.commit
 import androidx.fragment.app.replace
 import com.google.android.material.navigation.NavigationBarView
 
+//metodo Main
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var navegacion : NavigationBarView
