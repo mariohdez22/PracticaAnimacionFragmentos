@@ -1,6 +1,5 @@
 package com.example.animacionfragmentos
 
-import android.content.ClipData.Item
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.commit
