@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimacionFragmentos</string>
+    <string name="saludo_primer_fragmento">Primer fragmento</string>
+    <string name="saludo_segundo_fragmento">Segundo fragmento</string>
+    <string name="saludo_tercer_fragmento">Tercer fragmento</string>
+    <string name="saludo_cuarto_fragmento">Cuarto fragmento</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
